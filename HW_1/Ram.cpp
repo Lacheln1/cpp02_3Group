@@ -8,7 +8,7 @@ Ram::Ram() {
         mem[i] = 0;
 };
 Ram::~Ram() {
-    std::cout << "¸Þ¸ð¸® Á¦°ÅµÊ" << std::endl;
+    std::cout << "ë©”ëª¨ë¦¬ ì œê±°ë¨" << std::endl;
 };
 
 
